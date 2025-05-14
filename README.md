@@ -7,6 +7,7 @@ Notify the latest news of a stock when its price rises or falls beyond a certain
 ### How to install
 ```
 npm install typescript ts-node-dev @types/node --save-dev
+npm install axios cheerio
 ``` 
 
 ### How to execute
