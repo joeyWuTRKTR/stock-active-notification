@@ -4,7 +4,8 @@
   "description": "Notify the latest news of a stock when its price rises or falls beyond a certain percentage.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node-dev src/index.ts"
   },
   "keywords": [],
   "author": "",
